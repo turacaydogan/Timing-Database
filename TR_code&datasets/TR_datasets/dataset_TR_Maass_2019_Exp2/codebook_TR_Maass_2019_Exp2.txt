@@ -1,0 +1,18 @@
+Contributors: Sarah C.Maaß, Martin Riemer, Thomas Wolbers,  Hedderik van Rijn
+Citation: Maaß, S. C., Riemer, M., Wolbers, T., & van Rijn, H. (2019). Timing deficiencies in amnestic Mild Cognitive Impairment: Disentangling clock and memory processes. Behavioural brain research, 373, 112110.
+Stimulus: Auditory
+Manipulations: Mild Cognitive Impairment present or not
+Feedback: Reproducing duration of given stimulus interval
+Subject demographics: Fifteen subjects with the diagnosis of amnestic Mild-Cognitive Impairment (aged 58–81, M = 72.9, SD = 6.4; seven females) as well as 44 healthy aged controls (aged 60–84, M = 72.2, SD = 5.1; 24 females)
+Type of response device used: keyboard
+Experiment setting: A MacBook Pro (13”, 2011) controlled all experimental events. 
+Training: 20 trials 1-s reproduction
+The primary aim of the experiment:  Investigating whether mild cognitive impairment results in timing deficiencies.
+Main result of the study:  Patients with aMCI showed the strongest regression towards the mean in a multi-duration reproduction task, followed by low-performing healthy controls and high-performing healthy controls, respectively. 
+Special instructions: Temporal Reproduction
+Date of data collection: 2019
+MCI= Mild Cognitive Impairment: 1=present, 0=absent
+Location of data collection: Unknown
+Data formatted by: Turaç Aydoğan (turac.aydogan@ozu.edu.tr)
+
+

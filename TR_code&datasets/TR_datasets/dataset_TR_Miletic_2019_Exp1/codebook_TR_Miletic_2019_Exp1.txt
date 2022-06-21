@@ -1,0 +1,17 @@
+﻿Contributor: Leendert van Maanen (lvmaanen@gmail.com)
+Citation: Miletic, S., & van Maanen, L. (2019). Caution in decision-making under time pressure is mediated by timing ability. Cognitive Psychology, 110, 16–29.Experiment 1
+Stimulus: Participants produced a duration of 1.5 s by pressing the space bar twice – once to start the interval, and once to end the interval. Before the start of the interval, a fixation cross was presented, which changed to a circle upon the first keypress.
+Manipulations: No manipulations
+Feedback: After the second keypress, participants received feedback on how well they reproduced the interval, indicated by a colored circle that represented how close they were to the target duration. This feedback was presented for a random duration sampled uniformly between 1 s and 1.5 s.
+
+Age: Mean 21.5y (SD 1.9y)
+Type of the response device used: keyboard
+Experiment setting: Lab
+Training: 10 familiarization trials (not included)
+Primary aim of experiment: Provide insight in the role of timing in decision making
+Special instructions: Participants were explicitly instructed not to count or tap their fingers or feet to reproduce the duration.
+Link: https://osf.io/smj2u/
+Date of data collection: see Date column (format: YYYY-MM-DD)
+Time of data collection: see ToD column (format: HHMM)
+Location of data collection: Netherlands (language of instruction: Dutch)
+Additional tasks: All subjects also performed a decision making task under deadline stress. The deadline was set at 1.5s This always followed the time production task

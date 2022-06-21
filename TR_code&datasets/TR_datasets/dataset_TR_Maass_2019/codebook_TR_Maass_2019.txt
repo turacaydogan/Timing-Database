@@ -1,0 +1,21 @@
+Contributors: Sarah C.Maaß, Nadine Schlichting, Hedderikvan Rijn
+Citation: Maass, S. C., Schlichting, N., & van Rijn, H. (2019). Eliciting contextual temporal calibration: The effect of bottom-up and top-down information in reproduction tasks. Acta psychologica, 199, 102898.
+Stimulus: Auditory
+Manipulations: changes in the instructions and types of pitches varied.
+Feedback: Reproducing duration of given stimulus interval
+Subject demographics: 138
+Type of response device used: keyboard
+Experiment setting: MacBooks (13″, 2009) controlled all experimental events. Auditory stimuli were presented through headphones (Sennheiser, HD280 Pro)
+Training: 
+The primary aim of the experiment:  An example in the temporal domain is the central tendency effect: when a range of durations is presented, a regression towards the mean is observed. 
+Main result of the study:  We demonstrate that (1) the context effect emerges as long as sufficiently distinct durations are presented; (2) the effect is not modulated by explicit instructions or other cues; (3) just a single additional duration is sufficient to produce a context effect.
+Special instructions: Temporal Reproduction
+Date of data collection: 2019
+instruction data:no label=no further instructions were given about the lengths of intervals in each block
+		pitch=In the next blocks, you will hear durations with different pitches. The pitch changes from block to block
+		short/long=In the next blocks, you will either hear SHORTer or LONGer durations. This will be indicated at the start of each block.
+		A/B=In the next blocks, you will hear durations from SET A or SET B. This will be indicated at the start of each block.
+Location of data collection: Unknown
+Data formatted by: Turaç Aydoğan (turac.aydogan@ozu.edu.tr)
+
+

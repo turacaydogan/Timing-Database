@@ -1,0 +1,17 @@
+Contributors: Daniel Bratzke and Rolf Ulrich
+Citation: Bratzke, D., & Ulrich, R. (2019). Temporal reproduction within and across senses: Testing the supramodal property of the pacemaker-counter model. Journal of Experimental Psychology: Human Perception and Performance, 45(9), 1218–1235.
+Stimulus: Visual
+Manipulations: blue or pink visual stimulus  1:standard durations in mixed blocks 2:each modality combination was tested in separate blocks 3:only the standard durations were blocked
+Feedback: Participants pressed space key to reproduce the given stimulus time
+Subject demographics: 19 women and 5 men, M = 22.8 years
+Type of response device used: Space key of a keyboard
+Experiment setting: soundattenuated, dimly illuminated experimental booth
+Training: Participants completed 8 training trials same with the experimental trials
+The primary aim of the experiment: whether PCM applicable for intramodal (blue or pink visual stimulus) time reproduction
+Main result of the study: Congruency effects on mean reproduction and reproduction variability can emerge even when the change in the stimulus is quite subtle and does not affect perceived duration.
+Special instructions: Temporal Reproduction Task
+Date of data collection: 2019
+Location of data collection: University of Tübingen
+Special Note: Congruency data included 1:congruent 0:incongruent
+Data formatted by: Turaç Aydoğan (turac.aydogan@ozu.edu.tr)
+

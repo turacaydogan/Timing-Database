@@ -1,0 +1,13 @@
+Contributors: Ezgi Özoğlu
+Citation: Özoğlu, E. (Unpublished). Heart-Rate Variability and Time Perception Under the Effect of Arousal Context.
+Stimulus:Emotional sounds taken from IADS battery. Under the column "Emotion", numbers 1, 2, 3 refers to positive, neutral, negative, respectively.  
+Manipulations: Arousal manipulation via emotional sounds, see stimulus section.
+Feedback: No feedback
+Subject demographics:Average age = 22.18 , SD of age = 3.82
+Type of the response device used: Keyboard
+Experiment setting: Lab
+The primary aim of the experiment: To investigate if heart-rate variabilityis associated with temporal accuracy.
+Main result of the study: There was no evidence of an association between heart-rate variability and temporal accuracy.
+Date of Data collection: 2016
+Location of data collection including the country and language of instruction: Turkey, Turkish
+If a given subject completed different tasks: No

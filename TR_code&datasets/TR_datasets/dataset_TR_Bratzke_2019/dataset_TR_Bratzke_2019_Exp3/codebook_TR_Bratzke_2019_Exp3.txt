@@ -1,0 +1,17 @@
+Contributors: Daniel Bratzke and Rolf Ulrich
+Citation: Bratzke, D., & Ulrich, R. (2019). Temporal reproduction within and across senses: Testing the supramodal property of the pacemaker-counter model. Journal of Experimental Psychology: Human Perception and Performance, 45(9), 1218–1235.
+Stimulus: Auditory
+Manipulations: strong vs. weak auditory stimulus  1:standard durations in mixed blocks 2:each modality combination was tested in separate blocks 3:only the standard durations were blocked
+Feedback: Participants pressed space key to reproduce the given stimulus time
+Subject demographics: 16 women and 8 men, M = 23.9 years
+Type of response device used: Space key of a keyboard
+Experiment setting: soundattenuated, dimly illuminated experimental booth
+Training: Participants completed 8 training trials same with the experimental trials
+The primary aim of the experiment: whether PCM applicable for intramodal (strong vs. weak auditory) time reproduction
+Main result of the study:  the mean reproduction results confirmed the predictions of PCM in many respects, with a better match for the long than for the short standard duration
+Special instructions: Temporal Reproduction Task
+Date of data collection: 2019
+Location of data collection: University of Tübingen
+Special Note: Congruency data included 1:congruent 0:incongruent
+Data formatted by: Turaç Aydoğan (turac.aydogan@ozu.edu.tr)
+

@@ -1,0 +1,17 @@
+﻿Contributor: Leendert van Maanen (lvmaanen@gmail.com)
+Citation: van Maanen, L., Van der Mijn, R., Van Beurden, M., Roijendijk, L., Kingma, B., Miletic, S., & Van Rijn, H. (2019). Core body temperature speeds up temporal processing and choice behavior under deadlines. Scientific Reports.
+Stimulus: Participants produced a 1s duration by pressing the a specially developed button box twice – once to start the interval, and once to end the interval. Before the start of the interval, a fixation cross was presented, which changed to a circle upon the first keypress. 
+Manipulations: Within subject manipulation of core body temperature. The Condition column indicates whether participants performed the task outside of a hot tube ("out"), inside a hottub with water temperature set at 36degrees Celsius ("36"), or inside a hottub with water temperature set at 38degrees ("38"). There were two sessions, minially two days apart. Each session consisted of three blocks. Block 1 was outside of the hot tub, Block 2 was after 20 minutes in ht hottub, and Block 3 was after 60 minutes in the hottub (or when the core body temperature readched 38.5 degrees C.)
+Feedback: No feedback was provided
+
+Age: Mean 23 y (all males)
+Type of the response device used: waterproof buttonbox
+Experiment setting: Lab
+Training: practice session of 50 trials outside of hottub, with feedback. Participants received feedback on how well they reproduced the interval, indicated by a colored circle that representing how close they were to the target duration (data not included)
+Primary aim of experiment: Provide insight in the role of timing in decision making and the relation to body temperature
+Special instructions: Participants were explicitly instructed not to count or tap their fingers or feet to reproduce the duration.
+Link:
+Date of data collection: see Date column (format: YYYY-MM-DD)
+Time of data collection: see ToD column (format: HHMM)
+Location of data collection: Netherlands (language of instruction: Dutch)
+Additional tasks: All subjects also performed a decision making task under time pressure, and provided answers to mental workload questionnaires
