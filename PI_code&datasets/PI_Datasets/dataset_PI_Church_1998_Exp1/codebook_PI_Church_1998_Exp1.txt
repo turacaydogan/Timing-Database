@@ -1,0 +1,22 @@
+Church, R. M., Lacourse, D. M., & Crystal, J. D. (1998). Temporal search as a function of the variability of interfood intervals. Journal of Experimental Psychology: Animal Behavior Processes, 24, 291-315.
+Abstract
+
+We attempted to determine whether timing theories, developed primarily to explain performance in fixed-interval reinforcement schedules, are also applicable to variable intervals. Groups of rats were trained in lever boxes on peak procedures with a 30-,45-, or 60-s interval, or a 30- to 60-s uniform distribution. In uniform interval schedules, rats made lever responses at particular times since food, as measured by the distribution of food-food intervals, the distribution of postreinforcement pauses, and the mean response rate as a function of time since food. Qualitative features of this performance are described by a multiple-oscillator connectionist theory of timing.
+
+Subjects
+The animals were 20 experimentally naïve male albino Sprague-Dawley viral antibody-free rates (Charles River Breeding Laboratory, Kingston NY). They were 7 weeks old on arrival and were housed individually in a colony room adjacent to the testing room. The rats were handled each day until they began training. They were keep on ad lib food for the first week and were then fed 15 to 20 g of Purina Mills Feed Formulab 5008 Rat Chow per day. Water was continuously available in the home cage. The colony room was on a 12:12-hr light-dark cycle. During the dark phase (from 8:45 a.m. to 8:45 p.m.), dim red lights illuminated the colony room, and dim red lights were present in the testing room at all times of testing. The rats were 9 weeks old when the experiment began.
+
+Apparatus
+Ten operant boxes (23x20x22 cm) were equipped with a lever (Gerbrands model 6311, 1.6x4.6-cm wide and 3.8 cm above the floor in five boxes; BRS/LVE model 123-07, 2.5x5.0 cm wide and 5.0 cm above the floor in three boxes; and Coulbourn mode E23-07, 1.5x3.0 cm wide and 4.0 cm above the floor in two boxes) 2.0 cm to the left of a food cup (4x3x1.5 cm). A pellet dispenser delivered 45-mg Noyes (Improved Formula A) pellets into the food cup. The panel opposite the lever and food cup had a water bottle mounted outside the box; the tube was accessible through a hole in the panel. Each box was in a ventilated, sound-attenuating chamber (63x44x57.5 cm high), which also contained a 28-V bulb (Radio Shack 272-1119) in a red lens (Radio Shack 272-325). An IBM AT controlled experimental events and recorded the time at which each event and lever press occurred with 1-ms accuracy.
+
+Procedure
+
+The rats were tested daily at approximately 4:15 p.m. and 6:30 p.m., for two shifts of rats (10 rats in each shift).
+
+Training. The first session of training was a 60-s fixed-interval schedule: The rat was placed in the box; the houselight was turned on; and food was delivered at 60-s intervals for 60 min. The next two sessions of training were continuous reinforcement: The rat was placed in the box; the houselight was turned on; the lever extended into the box; and each lever press produced a food pellet. After a criterion of 60 such reinforcements or 60 min, whichever came first, the session ended. All 20 rats met the reinforcement criterion on the first two sessions.
+
+Testing. Rats were randomly assigned to four groups of five rats each. The four groups differed in the times at which food was made available after the onset of a white noise stimulus: 30-s, 45-s, 60-s, or a uniform distribution of intervals between 30-s and 60-s (with a resolution of 1 ms). The peak procedure consisted of a random mixture of intervals of white noise stimuli in which (a) food as delivered following the first lever response after the criterion interval (30-s, 45-s, 60-s, or a uniformly distributed random variable between 30 and 60-s, for the four independent groups) and (b) food was not delivered and the white noise remained on for 240 s plus a mean random interval of 60 s. These reinforced and nonreinforced white noise intervals were followed by a 20 s interval without white noise plus a mean random interval of 10 s. During the first 5 min of each session all intervals were reinforced; during the rest of the session, reinforced and nonreinforced intervals were equally likely and randomly ordered. The rats were tested for 50 2-hr sessions.
+
+prepared by Turaç Aydoğan
+taken from: https://www.brown.edu/Research/Timelab/
+ 

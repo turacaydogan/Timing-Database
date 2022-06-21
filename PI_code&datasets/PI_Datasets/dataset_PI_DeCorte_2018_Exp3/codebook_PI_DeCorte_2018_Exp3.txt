@@ -1,0 +1,17 @@
+Contributors: Benjamin J De Corte, Rebecca R Della Valle, Matthew S Matell
+Citation: De Corte, B. J., Della Valle, R. R., & Matell, M. S. (2018). Recalibrating timing behavior via expected covariance between temporal cues. ELife, 7, e38790.
+Stimulus: Auditory
+Manipulations: Changing responses to differentiations in cue time
+Feedback: In the form of nosepoke
+Subject demographics: 10 naïve, male, Sprague-Dawley rats, who were 2 – 3 months of age at the start of each experiment
+Type of response device used: Three nosepoke apertures, equipped with photobeam detection circuits
+Experiment setting: Lab
+Training: During nosepoke training, rats were trained to insert their snouts into the center nosepoke in order to earn reward. Each response (snout insertion) resulted in reward delivery.  
+The primary aim of the experiment: To compare different peak intervals and variances in reward structure in different cue times.
+Main result of the study:  cue-duration change effects supersede reward structure change effects on transfer
+Special instructions: Peak interval task
+Date of data collection: 2018
+Location of data collection: Not known
+Special Note: Data where the subjects responded before the trial began are omitted to 0.
+Data formatted by: Turaç Aydoğan (turac.aydogan@ozu.edu.tr)
+

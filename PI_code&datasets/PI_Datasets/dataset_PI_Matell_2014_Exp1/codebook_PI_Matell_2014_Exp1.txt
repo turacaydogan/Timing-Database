@@ -1,0 +1,17 @@
+Contributors: Matthew S. Matell, Allison N. Kurti
+Citation: Matell MS, Kurti AN. Reinforcement probability modulates temporal memory selection and integration processes. Acta Psychol (Amst). 2014 Mar;147:80-91. doi: 10.1016/j.actpsy.2013.06.006. Epub 2013 Jul 27. PMID: 23896560; PMCID: PMC3903670.
+Stimulus: Visual and Auditory
+Manipulations: Stimulus compounding
+Feedback: Rats head entry into food pellet
+Subject demographics: Thirty adult male Sprague–Dawley rats
+Type of response device used: Three nosepoke response apertures (2.5 cm opening diameter) with photobeam detection circuits were placed on the back wall of the chamber and had yellow and green LED cue lights in their interior. 
+Experiment setting: 10 standard operantconditioning chambers (30.5  25.4  30.5 cm; Coulbourn Instruments, Allentown, PA).
+Training: Training continued until rats earned 60 reinforcements on two sequential sessions.
+The primary aim of the experiment: Whether the time at which the compound response functions peaked was systematically related to the reinforcement probabilities of the component durations
+Main result of the study:  The results of Experiment 1 showed that as the reinforcement probability for the short duration increased relative to the long duration, the response function for the compound cue shifted towards the short duration.
+Special instructions: Peak Interval
+Date of data collection: 2009
+Location of data collection: Unknown
+Note:Short and long stimuli are counterbalanced
+Data formatted by: Turaç Aydoğan (turac.aydogan@ozu.edu.tr)
+

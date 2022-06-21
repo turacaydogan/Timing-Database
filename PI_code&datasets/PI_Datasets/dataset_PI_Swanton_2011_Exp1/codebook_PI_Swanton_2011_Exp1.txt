@@ -1,0 +1,17 @@
+Contributors: Dale N. Swanton and Matthew S. Matell
+Citation: Swanton, D. N., & Matell, M. S. (2011). Stimulus compounding in interval timing: The modality–duration relationship of the anchor durations results in qualitatively different response patterns to the compound cue. Journal of Experimental Psychology: Animal Behavior Processes, 37(1), 94–107. https://doi.org/10.1037/a0020200
+Stimulus: Visual and Auditory
+Manipulations: Stimulus compounding
+Feedback: Rats head entry into food pellet
+Subject demographics: Twenty adult male Sprague–Dawley rats
+Type of response device used: Three nosepoke response apertures (2.5 cm opening diameter) with photobeam detection circuits were placed on the back wall of the chamber and had yellow and green LED cue lights in their interior. 
+Experiment setting: 10 standard operantconditioning chambers (30.5  25.4  30.5 cm; Coulbourn Instruments, Allentown, PA).
+Training: Rats were reinforced with a sucrose pellet on a fixed ratio 1 schedule on the center nosepoke aperture, until 60 reinforcers had been earned or 2 hr elapsed.
+The primary aim of the experiment: Stimulus compounding in interval timing
+Main result of the study:  The modality–duration relationship of the anchor durations results in qualitatively different response patterns to the compound cue
+Special instructions: Peak Interval
+Date of data collection: 2008
+Location of data collection: Unknown
+Note:Short and long stimuli are counterbalanced
+Data formatted by: Turaç Aydoğan (turac.aydogan@ozu.edu.tr)
+

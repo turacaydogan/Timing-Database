@@ -1,0 +1,14 @@
+Contributor: Ezgi Gür (gur.ezgi@gmail.com)
+Citation: Gür, E., Duyan, Y. A., Arkan, S., Karson, A., & Balcı, F. (2020). Interval timing deficits and their neurobiological correlates in aging mice. Neurobiology of Aging, 90, 33-42.
+Stimulus: A visual stimulus, houselight, was used in all trials.
+Manipulations: Target interval was a within-subject variable with two levels. Target durations were 25 and 50 seconds (associated with different levers), and mice were trained and tested for both durations within the same sessions.
+Feedback: None.
+Subject demographics: 38 male C57BL/6J mice [Young (n= 12), adult (n =13), and old mice (n=13)].Experiments started when mice were approximately 4,10, and 18 months of age and ended after 2 months.
+Type of the response device used: Levers.
+Experiment setting:Lab/operant boxes
+Training:Prior to the intermixed FI-PI sessions, mice had magazine and lever press training (not included in this dataset).
+The primary aim of the experiment: Aim was to investigate age differences in interval timing and their neurobiological correlates.
+Main result of the study: Timed response terminations and acquisition of timed response terminations were later in old mice compared to young and adult mice. Positive start-stop correlations were weaker and negative start-spread correlations were stronger for old mice indicating stronger threshold variance.
+Date of Data collection(if possible time of data collection): Mice were tested daily in one-hour long sessions during the light cycle (total of 50 sessions).
+Missing Data information: Subj_idx#21 is missing. The subject was lost at the beginning of the experiment due to health issues.
+Empty fields: Empty field in Response Onset and Offset means that the subject did not respond on the lever for the corresponding trial, and the trial ended after an interval three times longer than the target time. Importantly, in some cases, number of lever releases (in response offset) is not equal to number of lever presses (in response onset) but minus one. This was due to the fact that experimental sessions ended at the end of one hour, and the last trial was not completed. Consequently, lever release information for such trials were not saved. These trials were excluded in the original analysis.

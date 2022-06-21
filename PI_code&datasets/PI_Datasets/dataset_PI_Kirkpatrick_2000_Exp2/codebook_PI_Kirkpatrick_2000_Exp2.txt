@@ -1,0 +1,17 @@
+Contributors: Kimberly Kirkpatrick & Russell M. Church 
+Citation: Kirkpatrick, K., Church, R.M. Independent effects of stimulus and cycle duration in conditioning: The role of timing processes. Animal Learning & Behavior 28, 373–388 (2000). https://doi.org/10.3758/BF03200271
+Stimulus: Visual and Auditory
+Manipulations: Different durations of peak intervals and cycles
+Feedback: Rats head entry into food pellet
+Subject demographics: 24 male Sprague-Dawley rats
+Type of response device used: LEDphotocell (Model ENV-254)
+Experiment setting: The 12 chambers (25 x 30 x 30 cm) were located inside ventilated, noise-attenuating boxes (74 x 38 x 60 cm). Each chamber was equipped with a food cup, a water bottle, and two levers.
+Training: Original training, stimulus omission test, trace interval training were performed before Peak Interval Training (Sessions 92-111). 
+The primary aim of the experiment: Serial-, parallel-, and single-process accounts of conditioning and timing are compared.
+Main result of the study: All of the response rate functions peaked near the expected time of reinforcement, relative to stimulus onset. Shorter stimulus durations resulted in local response rate functions that were narrower and had higher peak rates than longer stimulus durations.
+Special instructions: Peak Interval Procedure
+stimulus/cycle combinations: 15/180 (Conditions 1 and 2), 60/90 (Condition 3 and 4), or 60/360 (Conditions 5 and 6).
+Date of data collection: 2000
+Location of data collection: Unknown
+Data formatted by: Turaç Aydoğan (turac.aydogan@ozu.edu.tr)
+
