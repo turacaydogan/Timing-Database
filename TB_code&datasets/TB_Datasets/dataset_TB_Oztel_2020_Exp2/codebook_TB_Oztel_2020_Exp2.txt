@@ -1,0 +1,15 @@
+Contributors: Tutku Öztel (toztel17@ku.edu.tr) and Fuat Balcı (fbalci@ku.edu.tr)
+Citation: Öztel, T., & Balcı, F. (2020). Stimulus-Induced Temporal Illusions: When Awareness Is Mesmerized by Time. Timing & Time Perception, 8(3-4), 363-380.
+dataset_TB_Oztel_2020_Exp2.csv file includes data from Experiment 2.
+Stimulus: Forward-walking stick man videos with 25, 50 and 100 frame per second (fps) speeds.
+Manipulations: The speed of the walking stick man. In the dataset, "Condition" column depicts the walking speed of the stick man for each trial. Participants reported their confidence (1: low, 2: medium, 3: high confidence) after each categorization. These responses are in the Confidence_Rating column.
+Feedback: Participants received no feedback throughout the experiment.
+Subject demographics: 10 F/5 M, 14 right handed, Mean age = 20.2, SD age = 1.4
+Type of response device used: A mechanical keyboard.
+Experiment setting: Lab
+Training: Participants classified durations as being "short" or "long". The training session terminated once the participant reached 10 correct classifications.
+The primary aim of the experiment: Investigating whether participants were aware of their time perceptions biased by exogenous factors.
+Date: February, 2019
+Location of data collection and instruction language: Turkey/Turkish
+Trial exclusion: None.
+Participant exclusion: In Experiment 2, participant with Subj_Idx of 5 was excluded from the formal analysis as he/she reported psychiatric drug use.

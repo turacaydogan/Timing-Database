@@ -1,0 +1,13 @@
+Contributors: Ezgi Özoğlu, Roland Thomaschke
+Citation: Özoğlu, E., & Thomaschke, R. (2020). Knowing your Heart Reduces Emotion-Induced Time Dilation, Timing & Time Perception, 8(3-4), 299-315. doi: https://doi.org/10.1163/22134468-bja10016
+Stimulus: 100x100 blue square simultaneously presented with a tone. Two tones were used, for high and low arousal. In the column "Condition", 1 refers to low arousal tone, 2 refers to high arousal tone. Tones were 698 (Low) and 704 (High) taken from IADS battery.
+Manipulations: Arousal manipulation via emotional sound - high and low arousal tones with similar valence values. see Stimulus section for more details.
+Feedback: No feedback
+Subject demographics:Average age =23.72 , SD of age = 5.07
+Type of the response device used: Keyboard
+Experiment setting: Lab
+The primary aim of the experiment: To investigate if interoceptive accuracy associated with emotion-induced time dilation.
+Main result of the study: Higher interoceptive accuracy is correlated with less time dilation effect.
+Date of Data collection: 2019
+Location of data collection including the country and language of instruction: Germany, German
+If a given subject completed different tasks: No

@@ -1,0 +1,42 @@
+Contributor(s): Alessia Baccarani, Simon Grondin, Vincent Laflamme, Renaud Brochard.
+
+● Citation: Baccarani, A., Grondin, S., Laflamme, V., & Brochard, R. (2020). Relaxing and stimulating effects of odors on time perception and their modulation by expectancy. Attention, Perception, & Psychophysics, 1-15.
+
+● Stimulus: 2 experiments using auditory temporal bisection task under 2 olfactory conditions and 3 expectancy conditions.
+Experiment number is indicated in column named "Experiment number": "1" or "2"
+Olfactory condition is indicated in column named "Odtest":"STRAWBERRY","BLANK1" for experiment 1; "LEMON", "BLANK2 for experiment 2.
+Expenctancy conditions is indicated in column named "Instruct": "NO-AROUSAL" for the no-expectancy condition, "RELAXING" for the relaxing condition and "STIMULATING" for the stimulating expectancy condition.  
+In experiment 1, session number corresponded to: 311-312: "STRAWBERRY" + "NO-AROUSAL" ; 321-322:"STRAWBERRY" + "RELAXING"; 331-332:"STRAWBERRY" + "STIMULATING" ; 411-412: "BLANK1" + "NO-AROUSAL" ; 421-422: "BLANK1" + "RELAXING"; 431-432: "BLANK1" + "STIMULATING"; 
+In experiment 2, session number corresponded to: 311-312: "LEMON" + "NO-AROUSAL" ; 321-322:"LEMON" + "RELAXING"; 331-332:"LEMON" + "STIMULATING" ; 411-412: "BLANK2" + "NO-AROUSAL" ; 421-422: "BLANK2" + "RELAXING"; 431-432: "BLANK2" + "STIMULATING"; 
+In odd-numbered conditions (311, 321,..., 431), the short duration was answered with the right hand and the long duration with the left hand. In even-numbered conditions (312, 322,..432), the short duration was answered with the left hand.
+
+
+● Manipulations: In two experiments, young adult participants were asked to perform a classical temporal bisection task in which sound durations had to be judged according to two anchor durations. 
+After a training phase, an odor could be presented (odor condition) or not (blank condition) while participants were performing the bisection task. 
+"Sniffing sticks" were presented under the blindfolded participant's nose. The odor condition corresponded to a STRAWBERRY odor in experiment 1 or to a LEMON odor in experiment 2. No odor (i.e. only odorless mineral oil) was presented to the participants in experiment 1 (BLANK1) or 2 (BLANK2). 
+Expectancy was also manipulated by providing verbal suggestions: participants expected either the presence of a relaxing odor, a stimulating odor or no description was given. 
+The experiment was run in a quiet and well-ventilated classroom setting, in groups ranging from five to eight participants, and two experimenters sat on each side of each participant.
+
+● Feedback: No feedback was given to the participant during the temporal bisection task. 
+
+● Subject demographics: Experiment 1: 118 female students in psychology from Burgundy University (Mage = 18.77 ± 1.71 years).
+Experiment 2: 132 female students in psychology from Burgundy University (Mage = 18.83 ± 2.04 years).
+
+● Type of the response device used: Responses were given by pressing two keys of the keyboard (“Ctrl” and “Enter” keys) of a laptop computer.
+
+● Experiment setting: The experiment was run using Eprime software. Auditory stimuli to be judged consisted of white noise sounds were presented through headphones (0.208 s, 0.272 s, 0.336 s, 0.400 s, 0.464 s, 0.528 s, 0.592 s). During the bisection task, each duration was presented 10 times in a random order. 
+
+● Training: During the training phase, participants had to learn two anchor durations, a short one (0.208 s) and a long one (0.592 s). First, the participants had to listen to each duration, which were presented five times in alternation. Then the two anchor durations were randomly presented, ten times each, and participants had to categorize them as either short or long.
+
+● The primary aim of the experiment: Since emotional stimuli are known to modulate time perception, here we used the temporal bisection task to determine whether odors have objective relaxing and stimulating effects by respectively slowing down or speeding up the internal clock and whether prior expectancy could alter these effects.
+
+● Main result of the study: In the absence of prior suggestion, findings showed that, compared to participants presented with an odorless blank, participants presented with the strawberry odor underestimated sound durations (i.e., a relaxing effect) whereas participants presented with the lemon odor overestimated them (i.e., a stimulating effect). 
+These results confirm that pleasant odors can have objective relaxing and stimulating effects by themselves, which are better explained by arousal-based mechanisms rather than attentional distraction. Furthermore, in both experiments, incongruent suggestions undid the effects of both odors without reversing them completely (i.e., strawberry did not become stimulating even if participants were told so). 
+Both these bottom-up and top-down influences should be considered when investigating the emotional impact of odors on human behavior.
+
+● Special instructions: no instructions were given in order to avoid subvocal counting or chronometric strategies.
+
+● Date of Data collection: Experiment 1: 18-20/12/2017 (AM and PM)
+Experiment 2: 17-19/12/2018 (AM and PM)
+
+● Location of data collection including the country and language of instruction: classroom setting, University of Burgundy, Dijon, France (instructions given in french). 

@@ -1,0 +1,21 @@
+Contributers: Jason Tipples W.Tipples@leedsbeckett.ac.uk
+Citation: Tipples, J. (2019). Increased temporal sensitivity for threat: A Bayesian generalized linear mixed modeling approach. Attention, Perception, & Psychophysics, 81(3), 707-715.
+Stimulus: visual stimulus were used and indicated as "visual". There were two conditions: "threat" and "neutral" which was stated as character.
+Manipulations: participants were asked to look at the pictures which are labeled as "threat" and "neutral". In threat condition, dangerous animal pictures from IAPS were used. In neutral condition, neutral animals were selected according to valance scores.
+Feedback: No feedback. 
+Subject demographics: Average age: 23.03774, SD of age: 6.854834 
+Type of Response Device Used: keyboard ("z" and "m")
+Experiment setting: Lab
+Training: First eight trials were the training part which is not included in the dataset
+The primary aim of the experiment: establishing whether the association between individual differences in fearfulness and overestimation of time for threat generalizes to pictures of threatening animals, and (2) to illustrate the benefits of the Bayesian GLMM approach for analyzing temporal bisection data.
+Main result of the study: overestimation for threat as compared to neutral images
+Special instructions:  Participants were asked to (a) look at the picture and (b) indicate whether the picture appeared for a duration that was closer to either the short or the long duration that they had learned earlier
+Link to material and/or codes: https://osf.io/nmcf9/
+Date of data collection: not specified
+Location of data collection and language of instruction: University of Hull, UK. English
+Additional information about dataset: Please note participant number 27 was excluded from the analyses
+The data columns "anger", "distress", "fearfulness", "sociability" and "activity" are all self-report ratings of items from the EAS Temperament Survey for Adults (Buss & Plomin, 1984) that used a 1-5 scale 
+where 1 = Not at all characteristic of me 2 = Somewhat uncharacteristic of me 3 =Neither characteristic nor uncharacteristic of me 4 = Somewhat characteristic of me 5 = Very characteristic of me.  
+STAI refers to ratings from the State Trait Anxiety Inventory-Trait Form trait subscale (Spielberger, Gorsuch, Lushene, Vagg, & Jacobs, 1983)
+Block information was not recorded
+
