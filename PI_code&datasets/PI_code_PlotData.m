@@ -3,6 +3,7 @@ close gcf
 load("PI_Variables.mat");
 
 col = [167, 226, 55]/255;
+subjList = saveStructure.subjList;
 
 % Set semantic variables for data regarding each subject
 tarDur = subjList(:, 1); % Target Durations

@@ -6,7 +6,7 @@ myFolder = sprintf("%s\\PI_datasets", pwd);
 filePath = fullfile(myFolder, '**/*.csv');
 csvFiles = dir(filePath);
 
-subjList = []; % Variables list of each subject
+subjList = []; % Variables list of each subject: target duration, peak, spread for each subject
 
 for datasetIndex = 1:length(csvFiles) % Go through all csv files
 
@@ -27,9 +27,9 @@ for datasetIndex = 1:length(csvFiles) % Go through all csv files
     end
 
     
-    subjColumn = table2array(dataTable(:, 2)); % Subject information
-    targetDurColumn = table2array(dataTable(:, 9)); % Target Duration information
-    trialColumn = table2array(dataTable(:, 5)); % Trial information
+    subjColumn = table2array(dataTable(:, 2)); % Subject id
+    targetDurColumn = table2array(dataTable(:, 9)); % Target Duration 
+    trialColumn = table2array(dataTable(:, 5)); % Trial number
     
     % Form the matrix of raw data containing required columns 
     matrix = [subjColumn, targetDurColumn, trialColumn, table2array(dataTable(:, 3))];
@@ -49,10 +49,8 @@ for datasetIndex = 1:length(csvFiles) % Go through all csv files
         onsetTime = str2double(onsetTime);
     end
 
-    subjCount = 0;    
-
     for dur = 1:length(targetDuration)
-
+        subjCount = 0;
         onsetMax = targetDuration(dur)*3; % Maximum response time is set to 3 times of the target duration 
         if targetDuration(dur)<9
             onsetMax = targetDuration(dur)*5; % Maximum response time is set to 5 times of the target duration (shorter than 9 seconds)
@@ -96,7 +94,7 @@ for datasetIndex = 1:length(csvFiles) % Go through all csv files
 
         end
 
-        %individual start-stop
+        % Subject Start-Stop Calculation
         subjectStartStopMat = []; % Matrix to be filled with Start and Stop values of each subject
         subjectBinCounts = []; % Bin counts of the response times of each subject
 
@@ -118,7 +116,7 @@ for datasetIndex = 1:length(csvFiles) % Go through all csv files
 
             subjectBinCounts = [subjectBinCounts; subjBinCount]; % Subject bin counts are collected in an array
 
-            smoothNum = 19/30*targetDuration(dur); % Smoothing factor of 19 is used in a study of 30 seconds
+            smoothNum = 19/30*targetDuration(dur); % Smoothing factor is calculated depending on target duration (19 for 30 s target duration)
 
             if targetDuration(dur)<9 % Target durations < 9 s are smoothened by a factor equivalent to the target duration
                 smoothNum = targetDuration(dur);
@@ -139,7 +137,7 @@ for datasetIndex = 1:length(csvFiles) % Go through all csv files
         
         datasetBinCount = mean(subjectBinCounts, 1, "omitnan")'; % Dataset Response Curves for each target duration
         datasetStartStopMean = round(mean(subjectStartStopMat, 1, "omitnan")); % Averaging start and stop values to have a dataset start - stop value
-        datasetBinCount = datasetBinCount(1:datasetStartStopMean(2)); % Cut probability density function from the end
+        datasetBinCount = datasetBinCount(1:datasetStartStopMean(2)); % Cut probability density function at the stop value
         datasetPDF = datasetBinCount./sum(datasetBinCount); % Compute Probability Density Function
         datasetPDF(datasetPDF(:)==0) = NaN; % Omit zero values
         datasetCDF = cumsum(datasetPDF, 'omitnan'); % Create Cumulative Density Function
